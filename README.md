@@ -58,16 +58,20 @@ I am an **Informatics Engineering** student with a specialized focus on **Indust
 ### 📈 GitHub Insights & Productivity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanTechs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HanTechs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanTechs&layout=compact&theme=tokyonight&hide_border=true&v=2" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanTechs&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanTechs&theme=tokyonight&hide_border=true&v=2" width="100%" />
 </p>
 
----
+**Contribution Snake:**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HanTechs/HanTechs/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=60&section=footer&v=2" width="100%"/>
