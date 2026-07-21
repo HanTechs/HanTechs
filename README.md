@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="img/banner.png" width="100%" alt="AI for Industry Banner">
+  <img src="img/banner.png" width="100%" alt="Automation & IoT for Industry Banner">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Industrial+Data+Systems;Process+Optimization;Predictive+Modeling">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Automation+%26+IoT+Engineer;Industrial+Automation;SCADA+%26+Edge+Computing;Workflow+%26+System+Integration">
 </h1>
 
 <p align="center">
@@ -16,42 +16,43 @@
 
 ### 🌐 Professional Overview
 
-I am an **Informatics Engineering** student with a specialized focus on **Industrial AI**. Combining my background in **Industrial Quality Control (O&G/Manufacturing)** with advanced data science, I bridge the gap between physical operations and digital intelligence.
+I am an **Informatics Engineering** student with a solid background in **Industrial Quality Control (O&G/Manufacturing)**, specializing in **Automation & Industrial IoT (IIoT)**. I bridge field-level operations (sensors, actuators, PLCs) with modern software systems, web dashboards, and automated workflows.
 
-- 🔭 **Current Focus:** Developing Scalable Anomaly Detection for Industrial Sensors.
-- ⚡ **Mission:** Transforming traditional "reactive" workflows into "predictive" autonomous frameworks.
-- 🛡️ **Standards:** Integrating **ISO 9001:2015** logic into AI Model Governance and Data Traceability.
+- 🔭 **Current Focus:** Industrial Edge Computing, Smart Telemetry System, & Automated Workflow Integration.
+- ⚡ **Mission:** Converting manual and legacy industrial processes into interconnected, real-time, and automated systems.
+- 🛡️ **Standards:** Integrating **ISO 9001:2015** quality logic, strict data traceability, and fault-tolerant system architecture.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-| **Category**                  | **Tools & Technologies**                                                                                                                                                                                                                                                                                                        |
-| :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **AI / Machine Learning**     | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Data Engineering**          | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)                          |
-| **MLOps & DevOps**            | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=flat-square&logo=mlflow&logoColor=blue)                               |
-| **Industrial Specialization** | **PdM (Predictive Maintenance)** • **Computer Vision (QC)** • **Anomaly Detection**                                                                                                                                                                                                                                             |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **IoT & Embedded Systems** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) **C/C++** |
+| **Industrial Protocols** | **MQTT** • **Modbus RTU/TCP** • **HTTP/REST API** • **WebSocket** • **OPC UA** |
+| **Automation & Integration** | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white) **Webhook Automation** |
+| **Web & Monitoring UI** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps & Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **VS Code Container Workspaces** |
 
 ---
 
-### 🏗️ Industrial Foundation to AI Roadmap
+### 🏗️ Industrial Foundation to Automation Roadmap
 
-> "Not just building models, but engineering industrial solutions."
+> "From manual inspection to seamless physical-to-digital automation."
 
-- **Quality Control ➡️ AI Vision:** Automating visual inspections (welding, surface defects) using Deep Learning to reduce human error.
-- **Manufacturing ➡️ PdM:** Utilizing sensor time-series data to predict equipment failure before it happens.
-- **ISO Standards ➡️ MLOps:** Ensuring every model version is traceable, documented, and compliant with industrial safety standards.
+- **Quality Control ➡️ Automated Data Logging:** Replacing pen-and-paper inspection logs with automated sensor logging and edge data collection.
+- **Physical Operations ➡️ IoT Monitoring:** Deploying telemetry hardware to stream real-time environmental and machine parameters.
+- **Workflow Automation ➡️ System Synergy:** Using tools like **n8n** and webhooks to trigger instant alerts, sync databases, and automate report generation.
 
 ---
 
-### 📂 Featured Research & Projects
+### 📂 Featured Projects & Architectures
 
-| Project                                                           | Description                                                       | Stack                    |
-| :---------------------------------------------------------------- | :---------------------------------------------------------------- | :----------------------- |
-| 🛡️ **[Industrial Sensor Anomaly](https://github.com/HanTechs)**   | Detecting multivariate outliers in manufacturing sensor data.     | `Python`, `Scikit-Learn` |
-| 🔍 **[Vision-Based QC](https://github.com/HanTechs)**             | Real-time defect detection for manufacturing assembly lines.      | `OpenCV`, `YOLOv8`       |
-| 📊 **[Predictive Maintenance Dash](https://github.com/HanTechs)** | Interactive dashboard for monitoring Remaining Useful Life (RUL). | `Streamlit`, `Pandas`    |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 📡 **[IIoT Telemetry & Monitoring](https://github.com/HanTechs)** | Real-time sensor telemetry architecture for monitoring industrial parameters with low latency. | `ESP32`, `MQTT`, `Docker`, `Laravel` |
+| 🤖 **[Automated System Integration Workflow](https://github.com/HanTechs)** | End-to-end automation pipeline connecting IoT events, database triggers, and notification systems. | `n8n`, `Webhooks`, `Docker`, `REST API` |
+| 🏥 **[MedisGo - Management System](https://github.com/HanTechs)** | Digital administration platform for campus clinic services, streamlining registration and queue workflows. | `Laravel`, `Livewire`, `TailwindCSS` |
 
 ---
 
@@ -76,5 +77,5 @@ I am an **Informatics Engineering** student with a specialized focus on **Indust
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=60&section=footer&v=2" width="100%"/>
   <br />
-  <i>"Optimizing the physical world through intelligent code."</i>
+  <i>"Automating processes, bridging hardware with software intelligence."</i>
 </p>
