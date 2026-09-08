@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Automation+%26+IoT+Engineer;Industrial+Automation;SCADA+%26+Edge+Computing;Workflow+%26+System+Integration">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Automation+%26+AI+Engineer">
 </h1>
 
 <p align="center">
