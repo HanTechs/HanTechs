@@ -16,7 +16,7 @@
 
 ### 🌐 Professional Overview
 
-I am an **Informatics Engineering** student with a solid background in **Industrial Quality Control (O&G/Manufacturing)**, specializing in **Automation & Industrial IoT (IIoT)**. I bridge field-level operations (sensors, actuators, PLCs) with modern software systems, web dashboards, and automated workflows.
+I am an **Informatics Engineering** student with a solid background in **Industrial Quality Control (O&G/Manufacturing)**, specializing in **Automation & AI ENGINEER**. I bridge field-level operations (sensors, actuators, PLCs) with modern software systems, web dashboards, and automated workflows.
 
 - 🔭 **Current Focus:** Industrial Edge Computing, Smart Telemetry System, & Automated Workflow Integration.
 - ⚡ **Mission:** Converting manual and legacy industrial processes into interconnected, real-time, and automated systems.
